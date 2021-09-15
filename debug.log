@@ -1,0 +1,2 @@
+[0826/123541.018:ERROR:archive.cc(173)] Failed to parse header size from c:\Users\User\Documents\GitHub\vscode\extensions\css-language-features\server\test\pathCompletionFixtures\src\data\foo.asar
+[0826/123541.019:ERROR:archive.cc(173)] Failed to parse header size from c:\Users\User\Documents\GitHub\vscode\extensions\css-language-features\server\test\pathCompletionFixtures\src\data\foo.asar
